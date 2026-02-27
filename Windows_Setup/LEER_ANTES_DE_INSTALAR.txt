@@ -1,0 +1,20 @@
+===================================================
+  GARGAM STOCK - INSTRUCCIONES DE INSTALACIÓN
+===================================================
+
+Para instalar la aplicación en tu PC con Windows, sigue estos sencillos pasos:
+
+1. Asegúrate de tener instalado Node.js en tu ordenador.
+   Si no lo tienes, descárgalo gratis desde: https://nodejs.org/ (Elige la versión LTS).
+
+2. Haz doble clic en el archivo "Setup.bat" que se encuentra en esta misma carpeta.
+
+3. Se abrirá una ventana negra (consola) que instalará automáticamente todo lo necesario.
+   Este proceso puede tardar un par de minutos dependiendo de tu conexión a internet.
+
+4. Una vez finalizado, aparecerá un icono llamado "Gargam Stock" en tu Escritorio.
+
+5. A partir de ahora, solo tienes que hacer doble clic en ese icono del escritorio para usar la aplicación.
+
+Nota: Al abrir la aplicación, se mantendrá abierta una ventana negra de consola.
+NO la cierres mientras estés usando la aplicación, ya que es el servidor que mantiene la conexión con Google Sheets y el resto de dispositivos.

@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Gargam Performance - Control de Stock",
+  "description": "Gestión de inventario para taller mecánico con extracción de facturas por IA, sincronización en tiempo real multi-dispositivo y aplicación instalable (PWA).",
+  "requestFramePermissions": ["camera"]
+}

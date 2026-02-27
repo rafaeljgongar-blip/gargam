@@ -1,0 +1,23 @@
+{
+  "name": "Gargam Performance - Control de Stock",
+  "short_name": "Gargam Stock",
+  "description": "Gestión de inventario para taller mecánico con IA y Google Sheets.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#F27D26",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/gargam/192/192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://picsum.photos/seed/gargam/512/512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
